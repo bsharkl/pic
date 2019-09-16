@@ -76,17 +76,17 @@ _可以按照这样配置_> 注：可以将快捷键设置为> ctrl+shift+c# 总
 
 将上面的步骤都设置好之后，就可以让自己的Markdown文档飞起来了，每次截图之后，都可以按一下ctrl+shift+c，这样就会将剪切板上面的截图转化为在线网络图片链接，简直就是爽的不要不要的！！
 
-[0]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43913e1de1?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[1]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43910a521c?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
+[0]: http://img.bai-long.cn/img/20190916191041.png
+[1]: http://img.bai-long.cn/img/20190916191105.png
 [2]: https://link.juejin.im?target=https%3A%2F%2Fgithub.com%2FMolunerfinn%2FPicGo
-[3]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43911d7b83?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[4]: https://user-gold-cdn.xitu.io/2019/1/28/16893b439125b024?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[5]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43d211747d?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[6]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43f3c6ccb3?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[7]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43f97bc563?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[8]: https://user-gold-cdn.xitu.io/2019/1/28/16893b43faa50788?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[9]: https://user-gold-cdn.xitu.io/2019/1/28/16893b4403817332?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[10]: https://user-gold-cdn.xitu.io/2019/1/28/16893b44115f2ee3?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[11]: https://user-gold-cdn.xitu.io/2019/1/28/16893b4427ee17cd?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[12]: https://user-gold-cdn.xitu.io/2019/1/28/16893b44282f8187?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
-[13]: https://user-gold-cdn.xitu.io/2019/1/28/16893b4431798992?imageView2/0/w/1280/h/960/format/webp/ignore-error/1
+[3]: http://img.bai-long.cn/img/20190916191305.png
+[4]: http://img.bai-long.cn/img/20190916191344.png
+[5]: http://img.bai-long.cn/img/20190916191404.png
+[6]: http://img.bai-long.cn/img/20190916191435.png
+[7]: http://img.bai-long.cn/img/20190916191503.png
+[8]: http://img.bai-long.cn/img/20190916191524.png
+[9]: http://img.bai-long.cn/img/20190916191537.png
+[10]: http://img.bai-long.cn/img/20190916191619.png
+[11]: http://img.bai-long.cn/img/20190916191632.png
+[12]: http://img.bai-long.cn/img/20190916191725.png
+[13]: http://img.bai-long.cn/img/20190916191703.png
